@@ -1,0 +1,56 @@
+
+body{
+  background-color: purple;
+  margin:0;
+}
+
+.one{
+  font-size: 3.5rem;
+  font-family: "Sacramento";
+  color: #F7E2D6;
+  font-weight: bold;
+  position: relative;
+  top: 250px;
+  margin-right: 10px;
+
+}
+
+.tow{
+  font-size: 3.5rem;
+  font-family: "Sacramento";
+  color: #F7E2D6;
+  font-weight: bold;
+  position: relative;
+  top: 250px;
+  margin-right: 10px;
+  margin-left: 70px;
+
+}
+
+
+
+.Name-input{
+  width: 250px;
+height: 30px;
+  position: relative;
+  top: 250px;
+  border-radius: 100px;
+  border-style: solid;
+  margin-left: 5px;
+}
+.lover-input{
+  width: 250px;
+height: 30px;
+  position: relative;
+  top: 250px;
+  border-radius: 100px;
+  border-style: solid;
+}
+a{
+  font-family: sans-serif;
+  position: relative;
+  top: 500px;
+  color: #F7E2D6;
+text-decoration: none;
+  font-size: 2rem;
+}
